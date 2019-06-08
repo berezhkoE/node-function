@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Created-By: Apache Maven Bundle Plugin
+Tool: Bnd-1.15.0
+Bnd-LastModified: 1559653847502
+Import-Package: org.cytoscape.application;version="[3.0,4)",org.cytoscap
+ e.model;version="[3.0,4)",org.cytoscape.service.util;version="[3.0,4)",
+ org.cytoscape.work;version="[3.0,4)",org.osgi.framework;version="[1.5,2
+ )"
+Bundle-Name: Add Motif - Regulatory Chain
+Bundle-Activator: org.cytoscape.sample.internal.CyActivator
+Bundle-SymbolicName: org.cytoscape.add-motif-regulatory-chain
+Bundle-Version: 1.0
+Built-By: :0B5@8=0
+Build-Jdk: 11.0.2
+
